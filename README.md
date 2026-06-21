@@ -35,7 +35,7 @@ Score: 120                                   Best: 150
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/snake-game.git
+git clone https://github.com/bhavani-builds/snake-game.git
 cd snake-game
 
 # 2. (Optional but recommended) create a virtual environment
